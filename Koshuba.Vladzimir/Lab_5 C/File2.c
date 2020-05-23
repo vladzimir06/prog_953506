@@ -32,7 +32,10 @@ void PrintMNumber(MNumber number);
 MNumber EqualMNumber (MNumber n1, MNumber n2);
 MNumber LongMulShortMNumber (MNumber n1, MNumber n2);
 MNumber SumMNumber(MNumber n1, MNumber n2);
+
 MNumber RaznMNumber(MNumber n1, MNumber n2);
+
+void FreeMNumber(MNumber n1);
 
 int _tmain(int argc, _TCHAR* argv[])
 {
@@ -48,7 +51,19 @@ PrintMNumber(c);
 PrintMNumber(d);
 PrintMNumber(e);
 getch();
+
+FreeMNumber(a);
+FreeMNumber(b);
+
 return 0;
+}
+
+void FreeMNumber(MNumber n1){
+Item *p = number.tail;
+ while (p) {
+ free(p)
+ p = p->prev;
+ }
 }
 
 MNumber EqualMNumber (MNumber n1, MNumber n2)         //Сравнение
@@ -150,7 +165,6 @@ number->tail->next = p;
 p->prev = number->tail;
 number->tail = p;
 }
-
 number->n++;
 }
 
@@ -159,8 +173,9 @@ void PrintMNumber(MNumber number)
 {
 Item *p = number.tail;
 printf("\nNumber: ");
-while (p) {
-printf("%d", p->digit);
-p = p->prev;
+ while (p) {
+ printf("%d", p->digit);
+ p = p->prev;
+ }
 }
-}
+
