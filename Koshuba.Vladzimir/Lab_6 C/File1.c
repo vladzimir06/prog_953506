@@ -31,6 +31,15 @@ void AddNode(int data, Item **node)
  }
 }
 
+void Free(Item *node)
+{
+if (node -> left)
+ {Free(node->left);}
+ free(node);
+if (node -> right)
+ {Free(node -> right);}
+}
+
 void RightOrder(Item *node)
 {
 if (node -> left)
