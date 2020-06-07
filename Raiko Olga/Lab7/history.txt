@@ -1,0 +1,10 @@
+keks x 2 = 246
+pirog x 3 = 666
+DISCOUNT 3%
+FINAL SUM 91172
+end buyer
+pirog x 2 = 444
+tort x 4 = 1332
+DISCOUNT 3%
+FINAL SUM 177546
+end buyer 
