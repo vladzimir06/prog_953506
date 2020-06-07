@@ -1,0 +1,79 @@
+customer8
+item8
+requisits8
+20.02.2002
+23 years
+3
+61
+66
+customer9
+item9
+requisits9
+19.08.2019
+1 year
+1
+61
+66
+customer10
+item10
+requisits10
+24.07.2019
+1 year
+1
+13
+58
+customer11
+item11
+requisits11
+12.11.2019
+0,5 years
+1
+13
+58customer2
+item2
+requisits2
+22.04.2020
+1,5 year
+2
+61
+66
+customer6
+item6
+requisits6
+01.05.2020
+45 days
+1
+35
+78
+customer3
+item3
+requisits3
+19.03.2016
+9 years
+2
+55
+77
+customer3
+item3
+requisits3
+19.03.2016
+9 years
+2
+55
+77
+customer19
+iten19
+bm24372
+06.06.2020
+14
+40
+45
+48
+customer5
+item5
+requisits5
+03.06.2020
+4 days
+2
+33
+44

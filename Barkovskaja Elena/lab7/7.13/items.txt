@@ -1,0 +1,40 @@
+customer1
+item1
+requisits1
+21.01.2019
+16 days
+14
+23
+45
+customer2
+item2
+requisits2
+22.04.2020
+1,5 year
+1
+61
+66
+customer4
+item4
+requisits4
+02.06.2020
+15 days
+2
+66
+88
+customer19
+iten19
+bm24372
+06.06.2020
+14
+5
+45
+48
+cus1
+item1
+bm6543
+24.04200
+krk
+4
+10
+15
