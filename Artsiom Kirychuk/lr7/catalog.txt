@@ -1,0 +1,18 @@
+c++
+object oriented program
+People man = new Girl();
+Polymorphism
+You can create an instance of the people class and say that it will be a girl
+20160308
+c
+procedural programming
+printf("Hello World!"); printf("BB World");
+function call
+The ability to repeatedly call previously written functions anywhere in programs
+20071104
+c#
+garbage cleaning CLR
+object = new object();
+cool stuff
+the programmer does not need to worry about clearing the memory, all this is done by the CLR
+20190425
