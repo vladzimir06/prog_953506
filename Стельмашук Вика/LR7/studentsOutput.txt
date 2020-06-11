@@ -1,0 +1,65 @@
+
+Lobkov Dmitry Sergeevich
+Course: 1
+Group: 953506
+First semester marks: 7 6 9 8 
+Rating place in first semester: 4
+Average point in first semester: 7.50
+Second semester marks: 8 9 10 9 
+Rating place in second semester: 1
+Rating increase: +3
+Average in second semester: 9.00
+Average point increase: +1.50
+
+
+Barkovskaya Elena Vladimirovna
+Course: 2
+Group: 853506
+First semester marks: 8 10 7 9 
+Rating place in first semester: 2
+Average point in first semester: 8.50
+Second semester marks: 9 9 8 9 
+Rating place in second semester: 2
+Rating increase: 0
+Average in second semester: 8.75
+Average point increase: +0.25
+
+
+Fedorinchik Elvina Vladimirovna
+Course: 1
+Group: 953506
+First semester marks: 6 6 7 8 
+Rating place in first semester: 1
+Average point in first semester: 6.75
+Second semester marks: 7 8 8 6 
+Rating place in second semester: 3
+Rating increase: -2
+Average in second semester: 7.25
+Average point increase: +0.50
+
+
+Mazec Margo Stanislavovna
+Course: 2
+Group: 853506
+First semester marks: 9 9 8 9 
+Rating place in first semester: 5
+Average point in first semester: 8.75
+Second semester marks: 0 0 0 0 
+Rating place in second semester: 4
+Rating increase: +1
+Average in second semester: -nan(ind)
+Average point increase: -nan(ind)
+
+
+Hresik Maria Maximovna
+Course: 3
+Group: 753502
+First semester marks: 8 6 7 8 
+Rating place in first semester: 3
+Average point in first semester: 7.25
+Second semester marks: 7 7 6 7 
+Rating place in second semester: 5
+Rating increase: -2
+Average in second semester: 6.75
+Average point increase: -0.50
+
